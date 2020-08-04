@@ -4,8 +4,7 @@
   "description": "This is Color game application.",
   "main": "index.html",
   "scripts": {
-    "start": "npm run lite",
-    "lite": "lite-server"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
