@@ -1,11 +1,11 @@
 {
   "name": "color-game",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is Color game application.",
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
-    "lite":"lite-server"
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Sankalpbp/Color-Game/issues"
   },
-  "homepage": "https://github.com/Sankalpbp/Color-Game#readme"
+  "homepage": "https://github.com/Sankalpbp/Color-Game#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
